@@ -13,15 +13,6 @@ import matplotlib.pyplot as plt
 # In[ ]:
 
 
-import numpy as np
-from numpy.linalg import inv
-import pandas as pd
-import matplotlib.pyplot as plt
-
-
-# In[ ]:
-
-
 # A random market model
 np.random.seed(0)
 n = 100
